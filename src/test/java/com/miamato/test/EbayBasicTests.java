@@ -1,10 +1,8 @@
 package com.miamato.test;
 
 import com.miamato.BaseTest;
-import com.miamato.pageobject.ebay.HomePage;
 import com.miamato.valueobjects.Customer;
 import io.qameta.allure.Step;
-import org.checkerframework.checker.units.qual.C;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 
